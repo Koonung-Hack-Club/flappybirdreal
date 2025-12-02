@@ -9,9 +9,8 @@ game created using Canvas.
 Btw, there is a lot of room to improve this game but I hope you
 to enjoy the retro game we have liked before.
 
-***[Play me](https://jxmked.github.io/Flappybird/)***
+***[Play me]()***
 
 ## Socials
 
-- [Github](https://github.com/jxmked)
-- [Facebook](https://www.facebook.com/deguia25)
+- [Github](https://github.com/joystiick)
